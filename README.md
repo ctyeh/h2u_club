@@ -4,13 +4,14 @@
 
 H2U Club 個人健康雲的基本介紹：http://www.h2uclub.com/about.html
 
-__[ 工作職缺 ]__（__請至Issues尋找詳細工作內容__）
+__[ 工作職缺 ]__
 
-‧ iOS Developer
+‧ [iOS Developer](https://github.com/ctyeh/h2u_club/issues/5)
 
-‧ Android Developer
+‧ [Android Developer](https://github.com/ctyeh/h2u_club/issues/4)
 
-‧ Front-End Developer
+‧ [Front-End Developer](https://github.com/ctyeh/h2u_club/issues/3)
 
-‧ Back-End Developer ／Java系統架構師
+‧ [Back-End Developer／Java系統架構師](https://github.com/ctyeh/h2u_club/issues/2)
 
+（__或至 Issues 尋找詳細工作內容__）
